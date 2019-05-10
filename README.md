@@ -16,6 +16,7 @@ The saved weights and tokenizer can be downloaded from dropbox:
 https://www.dropbox.com/sh/dd597epuxffhfxz/AAB7SsNhLGagVB9wk2XbcMWra?dl=0
 
 **Note:** Sometimes github fails to load/render juypter notebooks. In this case you can copy-paste the link from the notebook into https://nbviewer.jupyter.org/ or just click the link below:  
+
 https://nbviewer.jupyter.org/github/jj-curious/SentimentAMZN/blob/master/SentimentReviews.ipynb
 
 **Tags:** NLP, Natural Language Processing, Sentiment Analysis, Opinion Mining, Reviews, LSTM, RNN, Classification
